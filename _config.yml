@@ -23,6 +23,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
+repository: coskoutelis/coskoutelis.github.io
 
 # Build settings
 markdown: kramdown
@@ -59,7 +60,7 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/favicon.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
