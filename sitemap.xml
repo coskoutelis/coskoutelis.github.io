@@ -2,10 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wingshark.co/categories/</loc>
+    <loc>https://wingshark.co/posts/random/first/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wingshark.co/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wingshark.co/posts/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wingshark.co/tags/python/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wingshark.co/tags/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wingshark.co/tags/webscraping/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wingshark.co/about/about/</loc>
+  </url><url>
+    <loc>https://wingshark.co/about/</loc>
   </url>
 </urlset>
