@@ -2,3 +2,45 @@ baseURL: https://wingshark.co/
 languageCode: en-us
 title: My New Hugo Site
 theme: poison
+paginate: 10
+
+params:
+  brand: Costas Skoutelis
+  brand_image: /logo.png
+  description: Software Engineer
+  dark_mode: true
+  menu:
+    - Name: Blog
+      URL: /posts/
+      Pre: Recent
+      HasChildren: true
+      Limit: 5
+  github_url: https://github.com/coskoutelis
+  linkedin_url: https://www.linkedin.com/in/costas-skoutelis/
+  sidebar_bg_color: "#202020"
+  sidebar_img_border_color: "#515151"
+  sidebar_p_color: "#909090"
+  sidebar_h1_color: "#FFF"
+  sidebar_a_color: "#FFF"
+  sidebar_socials_color: "#FFF"
+  moon_sun_color: "#FFF"
+  moon_sun_background_color: "#515151"
+  text_color: "#222"
+  content_bg_color: "#FAF9F6"
+  post_title_color: "#303030"
+  list_color: "#5a5a5a"
+  link_color: "#268bd2"
+  date_color: "#515151"
+  table_border_color: "#E5E5E5"
+  table_stripe_color: "#F9F9F9"
+  text_color_dark: "#eee"
+  content_bg_color_dark: "#121212"
+  post_title_color_dark: "#DBE2E9"
+  list_color_dark: "#9d9d9d"
+  link_color_dark: "#268bd2"
+  date_color_dark: "#9a9a9a"
+  table_border_color_dark: "#515151"
+  table_stripe_color_dark: "#202020"
+
+taxonomies:
+  tags: tags
